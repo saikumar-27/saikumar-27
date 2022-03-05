@@ -19,5 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikumar-27&show_icons=true&locale=en" alt="saikumar-27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikumar-27&" alt="saikumar-27" /></p>
-
-
