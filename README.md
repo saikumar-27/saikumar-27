@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/sai_kumar___" target="blank"><img src="https://img.shields.io/twitter/follow/sai_kumar___?logo=twitter&style=for-the-badge" alt="sai_kumar___" /></a> </p>
 
 
-- 💬 Ask me about **React, Redux, JavaScript.**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **seemalasaiyadav@gmail.com**
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/sai_kumar___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sai_kumar___" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/s-sai-kumar-yadav-a9a694232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s.sai kumar yadav" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/tinku__yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tinku__yadav/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/tinku__yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tinku__yadav/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
