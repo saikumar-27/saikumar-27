@@ -198,7 +198,7 @@ g.typingUnderline rect {
 
   <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
-       Hi folks!
+       Hi there!
 </text>
 
 <image style="overflow:visible;clip-path:url(#mask);TWFkZUJ5VGFjY2E=;" 
