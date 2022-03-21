@@ -186,7 +186,7 @@ g.typingUnderline rect {
 
 <path id="descriptionTyping">
   <animate attributeName="d" from="m30,-3 h0" to="m30,-3 h100" 
-           dur="5.8s" begin="0s" fill="freeze"/>
+           dur="4.8s" begin="0s" fill="freeze"/>
 </path>
 
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
